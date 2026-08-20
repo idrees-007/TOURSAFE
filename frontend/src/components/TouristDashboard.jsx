@@ -6,8 +6,8 @@ import {
 
 // --- MOCK DATA ---
 const attractions = [
-  { id: 1, name: "Bengaluru Palace", image: "https://images.unsplash.com/photo-1596422846543-75c6fc197f0a?auto=format&fit=crop&q=80&w=800", rating: 4.8, distance: "2.4 km", safetyScore: 95, nearby: ['police', 'hospital', 'metro'] },
-  { id: 2, name: "Cubbon Park", image: "https://images.unsplash.com/photo-1620766165457-a80757bf53cb?auto=format&fit=crop&q=80&w=800", rating: 4.7, distance: "1.1 km", safetyScore: 88, nearby: ['metro', 'police'] },
+  { id: 1, name: "Bengaluru Palace", image: "/BANGLORE PALACE.jpeg", rating: 4.8, distance: "2.4 km", safetyScore: 95, nearby: ['police', 'hospital', 'metro'] },
+  { id: 2, name: "Cubbon Park", image: "cubbin park.jpg", rating: 4.7, distance: "1.1 km", safetyScore: 88, nearby: ['metro', 'police'] },
   { id: 3, name: "Lalbagh Botanical Garden", image: "/lalbagh.jpg", rating: 4.9, distance: "4.5 km", safetyScore: 92, nearby: ['hospital', 'metro'] }
 ];
 
