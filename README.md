@@ -58,5 +58,5 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/toursafe.git](https://github.com/your-username/toursafe.git)
-   cd toursafe
+  git clone https://github.com/idrees-007/TOURSAFE.git
+  cd TOURSAFE
